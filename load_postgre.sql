@@ -1,10 +1,5 @@
 '''
 =================================================
-Milestones 1
-
-Nama  : Daniswara Eka Saputra
-Batch : CODA-RMT-002
-
 Program ini dibuat untuk memasukan data Sneakers_Kick_Avenue.csv ke dalam postgreSQL 
 =================================================
 '''
